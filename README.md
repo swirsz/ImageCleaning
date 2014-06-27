@@ -21,6 +21,8 @@ Building this project requires Visual Studio 2010 and OpenCV.  OpenCV version 2.
 setx -m OPENCV_DIR "<OpenCV directory>\build"
 ```
 
-## Source
+## Resources
 
-This project was expanded with an enhanced GUI as a [group project which can be found here.](https://github.com/AleksandrRozenman/Comp467Project)  A [paper describing this group project](http://wirsz.com/ImageCleaning.pdf) is also available.
+This project was expanded with an enhanced GUI as a [group project which can be found here.](https://github.com/AleksandrRozenman/Comp467Project) 
+A [paper describing this group project](http://wirsz.com/ImageCleaning/ImageCleaning.pdf) is also available.
+A [precompiled version is available here.](http://wirsz.com/ImageCleaning/ImageCleaning.zip)
